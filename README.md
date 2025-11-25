@@ -29,7 +29,6 @@ Para compilar o código TypeScript, execute:
 ```bash
  tsc
  ```
-Isso irá gerar os arquivos JavaScript em um diretório `out`.
 
 Para executar a aplicação, use o seguinte comando:
 ```bash
